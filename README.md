@@ -1,4 +1,6 @@
 ### Hi there 👋,I am Linah Wainaina
+:💓: About Me: I am a Software Developer
+
 **wanjirulinahlinah/wanjirulinahlinah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
