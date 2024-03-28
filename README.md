@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there 👋,I am Linah Wainaina
 **wanjirulinahlinah/wanjirulinahlinah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Backend Development**
-- 🌱 I’m currently learning Next JS
-- 👯 I’m looking to collaborate on **Frontend and Backend Projects**
+- 🌱 I’m currently learning Next.JS
+- - 👯 I’m looking to collaborate on **Frontend and Backend Projects**
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **wainainalinahw@gmail.com**
 - ⚡ Fun fact: I like Loving.
