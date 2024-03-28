@@ -1,17 +1,17 @@
-### Hi there 👋,I am Linah Wainaina
+### Hey there! I'm Linah Wainaina
 :💓: About Me: I am a Software Developer
+
 
 **wanjirulinahlinah/wanjirulinahlinah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Backend Development**
-- 🌱 I’m currently learning Next.JS
+- 🌱 I’m currently learning Next.JS and  AngularJs
 - - 👯 I’m looking to collaborate on **Frontend and Backend Projects**
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **wainainalinahw@gmail.com**
-- ⚡ Fun fact: I like Loving.
--->
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Linah Wanjiru) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Linah Wainaina) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/linah-wainaina/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Linah Wainaina) 
 
