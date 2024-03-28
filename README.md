@@ -1,7 +1,4 @@
 ### Hey there! I'm Linah Wainaina
-:💓: About Me: I am a Software Developer
-
-
 **wanjirulinahlinah/wanjirulinahlinah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +8,12 @@ Here are some ideas to get you started:
 - - 👯 I’m looking to collaborate on **Frontend and Backend Projects**
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **wainainalinahw@gmail.com**
+
+## About Me
+
+I am highly self-motivated and thrive on the excitement of learning something new every day. My expertise spans across diverse domains including Backend development, product management, UI/UX design, and UX Research. Moreover, I proficiently utilize HTML and CSS to craft responsive websites.
+
+My deep-rooted passion for technology stems from the firm belief that it serves as a platform to leverage my skills and knowledge to enhance people's lives and elevate productivity levels. As I navigate through my professional journey, I am keen on collaborating with industry experts and like-minded software developers. My overarching objective is to innovate and create solutions that make a meaningful impact on our world.
   
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Linah Wanjiru) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Linah Wainaina) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/linah-wainaina/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Linah Wainaina) 
