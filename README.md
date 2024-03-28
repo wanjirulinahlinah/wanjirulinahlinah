@@ -1,4 +1,5 @@
-### Hey there! I'm Linah Wainaina
+### Hey there! I'm Linah Wainaina [![](https://visitcount.itsvg.in/api?id=wanjirulinahlinah&icon=0&color=3)](https://visitcount.itsvg.in)
+
 **wanjirulinahlinah/wanjirulinahlinah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
